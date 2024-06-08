@@ -1,0 +1,224 @@
+* {
+	font-family: "Aristotelia Pro ";
+	font-size: 15px;
+	padding: 0;
+	margin: 0px;
+}
+
+h1 {
+	font-size: 50px;
+	font-weight: bold;
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+h3 {
+	font-size: 20px;
+	font-weight: normal;
+	margin-top: 20px;
+}
+
+h4 {
+	color: red;
+	font-size: 25px;
+}
+
+h5 {
+	font-size: 22px;
+}
+
+.hautdepage{
+	background-image: url('../PINCEMEimages/crabe1.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	padding: 25px;
+	background-color: rgb(252, 227, 200);
+	padding-bottom: 20px;
+	position: sticky;
+}
+
+.Blog {
+	background-color: red;
+	line-height: 70px;
+}
+
+.Monblog {
+	height: 50px;
+	padding: 10px;
+	padding-bottom: 10px;
+	display: inline;
+}
+
+.Monblog2 {
+	height: 50px;
+	float: right;
+	padding: 10px;
+	padding-bottom: 5px;
+	display: inline;
+	margin-bottom: 20px;
+	
+}
+
+.Contacts, .Panier, .Comptes {
+	color: white; 
+	text-decoration: none;
+	font-size: 20px;
+	padding: 20px;
+}
+
+.Accueil, .Acheter, .Quisommesnous {
+	padding: 20px;
+	font-size: 20px;
+	text-decoration: none;
+	color: white;
+}
+
+.Colonnes {
+	display: flex;
+	width: 100%;
+}
+
+.Colonnegauche, .Colonnedroite, .Colonnemilieu {
+	padding: 5px;
+}
+
+.Colonnegauche {
+    width: 27%;
+	background-color: #EDEDED;
+	margin-left: 30px;
+}
+
+.Colonnemilieu {
+	width: 46%;
+	background-color: white;
+	margin-left: 15px;
+	margin-top: -13px;
+}
+
+.Colonnedroite {
+    width: 27%;
+    display: block;
+    margin-left: 15px;
+	background-color: white;
+	margin-right: 30px;
+}
+
+.Nosevenements {
+	margin-left: 10px;
+	font-size: 25px;
+}
+
+.Monpremiertitre {
+	margin-top: 10px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	margin-right: 0;
+	background-color: #EDEDED;
+	width: 97%;
+	display: block;
+	overflow: hidden;
+}
+	
+.image {
+	background-image: url("../PINCEMEimages/pince.jpg");
+	padding-top: 400px;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.Mondeuxiemetitre {
+	margin-top: 30px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+	margin-right: 0;
+	box-sizing: border-box;
+	background-color: #EDEDED;
+}
+
+.association {
+	background-image: url('');
+	background-color: lightblue;
+	background-repeat: no-repeat;
+	background-size: contain;
+	padding: 125px;	
+	margin-top: 25px;
+}
+
+.achetermaintenant {
+	background-color: red;
+	padding: 5px;
+	padding-right: 10px;
+	padding-left: 10px;
+	margin-top: 15px;
+	margin-bottom: 10px;
+	border-radius: 15px;
+	border-style: none;
+	color: white;
+	font-weight: bold;
+	margin-left: 30%;
+}
+
+.Notreequipe {
+	margin-bottom: 15px;
+	background-color: #EDEDED;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 30px;
+}
+
+.bg {
+	background-image: url('../PINCEMEimages/equipe.jpg');
+	background-repeat: no-repeat;
+	background-size: contain;
+	overflow: hidden;
+	padding: 120px;
+}
+
+.Nosaccessoires {
+	background-color: #EDEDED;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.photoaccessoire {
+	background-color: lightblue;
+	background-repeat: no-repeat;
+	background-size: contain;
+	overflow: hidden;
+	padding: 106px;
+	margin: 30px;
+	margin-right: 3px;
+	margin-left: 3px;
+}
+
+.photoaccessoire1 {
+	background-color: lightblue;
+	background-repeat: no-repeat;
+	background-size: contain;
+	overflow: hidden;
+	padding: 106px;
+	margin: 30px;
+	margin-right: 3px;
+	margin-left: 3px;
+}
+
+footer {
+	background-color: rgb(252, 227, 200);
+}
+	
+.footer {
+	background-image: url('../PINCEMEimages/crabe1.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	padding: 60px;
+	margin-left: 43%;
+	
+}
